@@ -32,6 +32,12 @@ body {
   object-fit: cover;
 }
 
+h1 {
+            color: #ff00ff; /* Cor brilhante (rosa) */
+            text-shadow: 0 0 10px white;
+            margin-top: 0;
+        }
+
 .description {
   margin-bottom: 20px;
   color: white;
